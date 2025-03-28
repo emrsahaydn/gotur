@@ -15,7 +15,7 @@
 # Proje Dokümanları
 
 1. [Gereksinim Analizi](gereksinim_analizi.md)
-2. [Durum Diyagramı](durum_diyagramı.png)
+2. [Durum Diyagramı](durum_diyagrami.png)
 3. [Durum Senaryoları](durum_senaryolari.pdf)
 4. [Front-End](front-end.md)
 5. [Back-End](back-end.md)
