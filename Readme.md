@@ -17,6 +17,6 @@
 1. [Gereksinim Analizi](gereksinim_analizi.md)
 2. [Durum Diyagramı](durum_diyagrami.png)
 3. [Durum Senaryoları](durum_senaryolari.pdf)
-4. [Frontend](frontend)
+4. [Frontend](./frontend/)
 5. [Back-End](back-end.md)
 6. [Video Sunum](video_sunum.mp4)
